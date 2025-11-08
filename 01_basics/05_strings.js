@@ -35,9 +35,9 @@ console.log(gameName.__proto__);
 // console.log(gameName.split('-'));
 
 // practice
-let str1 = 'nitin'
-let str2 = "btech"
-let final = `     my name is ${str1} and i am doing ${str2}    `
-console.log(final.toUpperCase());
-console.log(final.toUpperCase().trim());
+// let str1 = 'nitin'
+// let str2 = "btech"
+// let final = `     my name is ${str1} and i am doing ${str2}    `
+// console.log(final.toUpperCase());
+// console.log(final.toUpperCase().trim());
  
