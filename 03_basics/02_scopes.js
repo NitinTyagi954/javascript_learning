@@ -21,7 +21,7 @@
 //         const website = "youtube"
 //         console.log(username);
 //     }
-//     // console.log(website);
+//     // console.log(website); 
 
 //      two()
 
@@ -55,4 +55,15 @@
 // addTwo(5)
 // const addTwo = function(num){
 //     return num + 2
-// }
+// }'
+
+function one(){
+    const user = "nitin";
+    function two(){
+        const website = "yt"
+        console.log(user);
+    } 
+    console.log(website);
+    two();
+} 
+one();
